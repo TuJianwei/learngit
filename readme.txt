@@ -3,3 +3,4 @@ How to learn it?
 
 step2:Modify the file.
 step3:workspace and staging area.
+step4:Undo your modify;
